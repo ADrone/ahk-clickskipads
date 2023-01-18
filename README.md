@@ -1,2 +1,2 @@
 # ahk-clickskipads
-haha you read me
+Script file for the AutoHotkey program that uses the keyboard and mouse
